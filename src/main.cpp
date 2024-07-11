@@ -14,3 +14,6 @@ void loop() {
     // 1秒間待機
     delay(1000);
 }
+
+
+//test2
